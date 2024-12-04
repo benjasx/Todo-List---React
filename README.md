@@ -64,27 +64,22 @@ Define los tipos de acciones disponibles para el reducer:
 
 todo #1
 todo #2
-shell
-Copiar código
 
 ### Después de agregar una nueva tarea
 todo #1
 todo #2
 Nueva tarea
-shell
-Copiar código
+
 
 ### Después de editar una tarea
 
 todo #1
 Tarea actualizada
-shell
-Copiar código
+
 
 ### Después de eliminar una tarea
 todo #1
-shell
-Copiar código
+
 
 ## Contribución
 
